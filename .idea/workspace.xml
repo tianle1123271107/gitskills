@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca3ec279-373f-4b28-930f-4ecd01633eed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/flask.iml" />
-      <change beforePath="$PROJECT_DIR$/ceshi.py" afterPath="$PROJECT_DIR$/ceshi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Daydaystudy/字符串编码.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Daydaystudy/生成器.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/github/分支管理/多人协作.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/1.jpg" afterPath="$PROJECT_DIR$/img/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/2.png" afterPath="$PROJECT_DIR$/img/2.png" />
+      <change beforePath="$PROJECT_DIR$/2012081210372.jpg" afterPath="$PROJECT_DIR$/img/2012081210372.jpg" />
+      <change beforePath="$PROJECT_DIR$/55.jpg" afterPath="$PROJECT_DIR$/img/55.jpg" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/git/README.md" />
+      <change beforePath="$PROJECT_DIR$/blur.png" afterPath="$PROJECT_DIR$/img/blur.png" />
+      <change beforePath="$PROJECT_DIR$/blur1.png" afterPath="$PROJECT_DIR$/img/blur1.png" />
+      <change beforePath="$PROJECT_DIR$/ceshi.py" afterPath="$PROJECT_DIR$/测试文件/ceshi.py" />
+      <change beforePath="$PROJECT_DIR$/ceshi2.py" afterPath="$PROJECT_DIR$/测试文件/ceshi2.py" />
+      <change beforePath="$PROJECT_DIR$/ceshi3.py" afterPath="$PROJECT_DIR$/测试文件/ceshi3.py" />
+      <change beforePath="$PROJECT_DIR$/code.jpg" afterPath="$PROJECT_DIR$/img/code.jpg" />
+      <change beforePath="$PROJECT_DIR$/hashlib摘要算法防篡改.py" afterPath="$PROJECT_DIR$/Daydaystudy/hashlib摘要算法防篡改.py" />
+      <change beforePath="$PROJECT_DIR$/thefirstku.py" afterPath="$PROJECT_DIR$/Daydaystudy/thefirstku.py" />
+      <change beforePath="$PROJECT_DIR$/timg.jpg" afterPath="$PROJECT_DIR$/img/timg.jpg" />
+      <change beforePath="$PROJECT_DIR$/timg1.jpg" afterPath="$PROJECT_DIR$/img/timg1.jpg" />
+      <change beforePath="$PROJECT_DIR$/timg2.jpg" afterPath="$PROJECT_DIR$/img/timg2.jpg" />
+      <change beforePath="$PROJECT_DIR$/timg5.jpg" afterPath="$PROJECT_DIR$/img/timg5.jpg" />
+      <change beforePath="$PROJECT_DIR$/图像处理标准库.py" afterPath="$PROJECT_DIR$/Daydaystudy/图像处理标准库.py" />
+      <change beforePath="$PROJECT_DIR$/图像处理标准库2.py" afterPath="$PROJECT_DIR$/Daydaystudy/图像处理标准库2.py" />
+      <change beforePath="$PROJECT_DIR$/图形界面.py" afterPath="$PROJECT_DIR$/Daydaystudy/图形界面.py" />
+      <change beforePath="$PROJECT_DIR$/字符串编码.py" afterPath="$PROJECT_DIR$/Daydaystudy/内建模块itertools.py" />
+      <change beforePath="$PROJECT_DIR$/数据格式XML.py" afterPath="$PROJECT_DIR$/Daydaystudy/数据格式XML.py" />
+      <change beforePath="$PROJECT_DIR$/生成器.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/系统监控ps.py" afterPath="$PROJECT_DIR$/Daydaystudy/系统监控ps.py" />
+      <change beforePath="$PROJECT_DIR$/迭代器.py" afterPath="$PROJECT_DIR$/Daydaystudy/迭代器.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,61 +41,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="创建与合并分支.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/github/分支管理/创建与合并分支.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="解决冲突.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/github/分支管理/解决冲突.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007">
-              <caret line="53" column="65" lean-forward="false" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="分支管理策略.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/github/分支管理/分支管理策略.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1881">
-              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BUG分支.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/github/分支管理/BUG分支.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
+            <state relative-caret-position="1463">
               <caret line="77" column="1" lean-forward="false" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ceshi3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ceshi3.py">
+      <file leaf-file-name="迭代器.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Daydaystudy/迭代器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state relative-caret-position="95">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ceshi.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ceshi.py">
+      <file leaf-file-name="生成器.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Daydaystudy/生成器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="38">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="内建模块itertools.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Daydaystudy/内建模块itertools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -118,6 +125,10 @@
         <option value="$PROJECT_DIR$/github/分支管理/BUG分支.py" />
         <option value="$PROJECT_DIR$/github/分支管理/Feature分支.py" />
         <option value="$PROJECT_DIR$/ceshi.py" />
+        <option value="$PROJECT_DIR$/github/分支管理/多人协作.py" />
+        <option value="$PROJECT_DIR$/测试文件.py" />
+        <option value="$PROJECT_DIR$/生成器.py" />
+        <option value="$PROJECT_DIR$/Daydaystudy/内建模块itertools.py" />
       </list>
     </option>
   </component>
@@ -142,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,12 +163,18 @@
             <path>
               <item name="flask" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask" type="462c0819:PsiDirectoryNode" />
+              <item name="Daydaystudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -167,8 +183,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\flask\github\远程仓库" />
+      <recent name="F:\flask\Daydaystudy" />
+      <recent name="F:\flask\img" />
       <recent name="F:\flask\git" />
+      <recent name="F:\flask\测试文件" />
+      <recent name="F:\flask\github\远程仓库" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.图像处理标准库">
+  <component name="RunManager" selected="Python.内建模块itertools">
     <configuration name="图像处理标准库" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +215,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="flask" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/图像处理标准库.py" />
+      <option name="SCRIPT_NAME" value="F:\flask\Daydaystudy\图像处理标准库.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +233,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="flask" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/图像处理标准库2.py" />
+      <option name="SCRIPT_NAME" value="F:\flask\Daydaystudy\图像处理标准库2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,6 +288,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="flask" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/图形界面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="内建模块itertools" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daydaystudy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daydaystudy/内建模块itertools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,22 +323,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="flask" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/系统监控ps.py" />
+      <option name="SCRIPT_NAME" value="F:\flask\Daydaystudy\系统监控ps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.图像处理标准库" />
       <item index="1" class="java.lang.String" itemvalue="Python.图像处理标准库2" />
       <item index="2" class="java.lang.String" itemvalue="Python.系统监控ps" />
+      <item index="3" class="java.lang.String" itemvalue="Python.内建模块itertools" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.系统监控ps" />
-        <item index="1" class="java.lang.String" itemvalue="Python.图像处理标准库2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.图像处理标准库" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.内建模块itertools" />
+        <item index="1" class="java.lang.String" itemvalue="Python.系统监控ps" />
+        <item index="2" class="java.lang.String" itemvalue="Python.图像处理标准库2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.图像处理标准库" />
       </list>
     </recent_temporary>
   </component>
@@ -323,14 +362,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18988095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18988095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27124184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2780807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -352,162 +390,120 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/系统监控ps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图形界面.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/系统监控ps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图形界面.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="107" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/系统监控ps.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/hashlib摘要算法防篡改.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hashlib摘要算法防篡改.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图像处理标准库.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/图像处理标准库.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
           <caret line="42" column="68" lean-forward="true" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hashlib摘要算法防篡改.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/hashlib摘要算法防篡改.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图像处理标准库.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/图像处理标准库.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hashlib摘要算法防篡改.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/hashlib摘要算法防篡改.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图像处理标准库.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/图像处理标准库.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="988">
           <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blur.png">
+    <entry file="file://$PROJECT_DIR$/img/blur.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blur1.png">
+    <entry file="file://$PROJECT_DIR$/img/blur1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code.jpg">
+    <entry file="file://$PROJECT_DIR$/img/code.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/timg.jpg">
+    <entry file="file://$PROJECT_DIR$/img/timg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/timg2.jpg">
+    <entry file="file://$PROJECT_DIR$/img/timg2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/timg1.jpg">
+    <entry file="file://$PROJECT_DIR$/img/timg1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.jpg">
+    <entry file="file://$PROJECT_DIR$/img/1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2012081210372.jpg">
+    <entry file="file://$PROJECT_DIR$/img/2012081210372.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/55.jpg">
+    <entry file="file://$PROJECT_DIR$/img/55.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/timg5.jpg">
+    <entry file="file://$PROJECT_DIR$/img/timg5.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图像处理标准库2.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/图像处理标准库2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="165" column="13" lean-forward="true" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hashlib摘要算法防篡改.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/hashlib摘要算法防篡改.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1302">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图像处理标准库.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/图像处理标准库.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/系统监控ps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图形界面.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/图形界面.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
@@ -522,7 +518,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ceshi5.py" />
-    <entry file="file://$PROJECT_DIR$/ceshi2.py">
+    <entry file="file://$PROJECT_DIR$/测试文件/ceshi2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
@@ -550,17 +546,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thefirstku.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/thefirstku.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串编码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -568,13 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="826">
           <caret line="58" column="22" lean-forward="false" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据格式XML.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -627,22 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github/分支管理/创建与合并分支.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/github/分支管理/解决冲突.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="53" column="65" lean-forward="false" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/github/分支管理/Feature分支.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -650,42 +616,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/git/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github/分支管理/多人协作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试文件/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试文件/ceshi3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试文件.py" />
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/系统监控ps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github/分支管理/创建与合并分支.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github/分支管理/解决冲突.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="826">
+          <caret line="53" column="65" lean-forward="false" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/github/分支管理/分支管理策略.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1881">
+        <state relative-caret-position="826">
           <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/github/分支管理/BUG分支.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
+        <state relative-caret-position="1463">
           <caret line="77" column="1" lean-forward="false" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/git/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/迭代器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/数据格式XML.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/字符串编码.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ceshi3.py">
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/内建模块itertools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ceshi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="304">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding />
         </state>
       </provider>
