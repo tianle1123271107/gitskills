@@ -45,18 +45,18 @@
 
 # itertools提供的几个迭代器操作函数更加有用：
 import itertools
-for x in itertools.chain("ABC","DEF"):
-    print(x)
+# for x in itertools.chain("ABC","DEF"):
+#     print(x)
 
 # groupby()把迭代器中相邻的重复元素挑出来放在一起：
 # for key,group in itertools.groupby("AAABBBCCCCCC"):#函数返回值作为组的key
 #     print(key,list(group))
 # 实际上挑选规则是通过函数完成的，只要作用于函数的两个元素返回的值相等，这两个元素就被认为是在一组的，而函数返回值作为组的key。如果我们要忽略大小写分组，就可以让元素'A'和'a'都返回相同的key：
-for key,groud in itertools.groupby("AAaaAbBBBBbCcccCAAAAA",lambda x:x.upper()):#upper()函数是将字符串中的小写字母转换成大写字母
+for key,groud in itertools.groupby("AAaaAbBBBBbCcccCAAAAAdfd",lambda x:x.upper()):#upper()函数是将字符串中的小写字母转换成大写字母
     print(key, list(groud))
 
 
-
+'''itertools模块提供的全部是处理迭代功能的函数，它们的返回值不是list，而是Iterator(迭代器)，只有用for循环迭代的时候才真正计算。'''
 
 
 
