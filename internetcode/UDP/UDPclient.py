@@ -15,3 +15,6 @@ for data in [b'tianle',b'tianleer',b'tianlele']:#这里list中每个数据都要
 #接受来自服务器的数据的时候  因为数据是用来读取获得，所以需要把读取的数据解码成Unicode编码的str
 
 
+'''
+UDP与TCP使用类型  但是不需要建立连接， 此外，服务器绑定的UDP端口和TCP端口可以一致，也就是说UDP的9999端口和TCP的9999端口不冲突 可以一致
+'''
