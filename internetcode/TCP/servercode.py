@@ -22,8 +22,8 @@ s.bind(('127.0.0.1',9999))
 s.listen(5)
 print('wating for connecting')
 # 每个连接都必须创建新线程（或进程）来处理，否则，单线程在处理连接的过程中，无法接受其他客户端的连接：
-def tcplink(sock,addr):#这里的sock和addr就是返回的已经连接好的客户端的socket对象和（客户端连接的IP地址和端口号）
-    print('Accept new connection from %s:%s...' % addr)
+def tcplink(sock,addr):                                        #而sock返回的是服务器和客户端连接的scoket，返回的不是客户端的scoket，也就是说这个scoket是服务器的scoket，是与客户端连接之后建立的
+    print('Accept new connection from %s:%s...' % addr)  #addr是指服务器和客户端连接之后返回的客户端的地址和端口
     sock.send(b'Welcome!')#相当于给连接的这个客户端 发送信息
     while True:
         data=sock.recv(1024)#接受客户端发送的信息
@@ -31,6 +31,8 @@ def tcplink(sock,addr):#这里的sock和addr就是返回的已经连接好的客
         if not data or data.decode('utf-8')=='exit':
             break
         sock.send(('Hello, %s!' % data.decode('utf-8')).encode('utf-8'))#把客户端接受的信息加上'hello'再发送出去
+                                                                            # 这里send方法 先将接受到的的data（bytes）数据解码成Unicode的str  这样才能展示 hello ''这个字符串   ，然后现在看完之后  又需要发送了
+                                                                            #所以又需要把Unicode的str类型通过encode编程成(‘utf-8’)编码格式的bytes来发送传输过去
     sock.close()
     print('Connection from %s:%s closed.' % addr)
 # 连接建立后，服务器首先发一条欢迎消息，然后等待客户端数据，并加上Hello再发送给客户端。如果客户端发送了exit字符串，就直接关闭连接。
