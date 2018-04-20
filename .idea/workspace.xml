@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca3ec279-373f-4b28-930f-4ecd01633eed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/cehsi8.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/UDP/UDPclient.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/UDP/UDPserver.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/internetcode/internet编程.py" afterPath="$PROJECT_DIR$/internetcode/TCP/internet编程.py" />
-      <change beforePath="$PROJECT_DIR$/internetcode/servercode.py" afterPath="$PROJECT_DIR$/internetcode/TCP/servercode.py" />
-      <change beforePath="$PROJECT_DIR$/internetcode/servercoedceshi.py" afterPath="$PROJECT_DIR$/internetcode/TCP/servercoedceshi.py" />
-      <change beforePath="$PROJECT_DIR$/internetcode/sina.html" afterPath="$PROJECT_DIR$/internetcode/TCP/sina.html" />
-      <change beforePath="$PROJECT_DIR$/internetcode/流程描述.py" afterPath="$PROJECT_DIR$/internetcode/TCP/流程描述.py" />
+      <change beforePath="$PROJECT_DIR$/internetcode/UDP/UDPclient.py" afterPath="$PROJECT_DIR$/internetcode/UDP/UDPclient.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="servercode.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="servercode.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercode.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
@@ -33,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servercoedceshi.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="servercoedceshi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercoedceshi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="418">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -58,8 +50,8 @@
       <file leaf-file-name="UDPclient.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/internetcode/UDP/UDPclient.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -757,20 +749,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="34" column="133" lean-forward="true" selection-start-line="34" selection-start-column="133" selection-end-line="34" selection-end-column="133" />
-          <folding>
-            <element signature="e#385#398#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/internetcode/UDP/UDPclient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -787,9 +769,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercoedceshi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="418">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" column="133" lean-forward="true" selection-start-line="34" selection-start-column="133" selection-end-line="34" selection-end-column="133" />
+          <folding>
+            <element signature="e#385#398#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
