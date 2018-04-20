@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca3ec279-373f-4b28-930f-4ecd01633eed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Daydaystudy/字符串编码处理.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/github/自定义git/忽略特殊文件.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/github/自定义git/配置别名.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/TCP/IP介绍.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/TCP/clientcode.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/TCP/serverceshi2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/internet编程.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/servercode.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/servercoedceshi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/流程描述.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cehsi8.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/UDP/UDPclient.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/internetcode/UDP/UDPserver.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Daydaystudy/内建模块itertools.py" afterPath="$PROJECT_DIR$/Daydaystudy/内建模块itertools.py" />
-      <change beforePath="$PROJECT_DIR$/Daydaystudy/字符串编码.py" afterPath="$PROJECT_DIR$/Daydaystudy/selenium爬去百度文库.py" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/internetcode/internet编程.py" afterPath="$PROJECT_DIR$/internetcode/TCP/internet编程.py" />
+      <change beforePath="$PROJECT_DIR$/internetcode/servercode.py" afterPath="$PROJECT_DIR$/internetcode/TCP/servercode.py" />
+      <change beforePath="$PROJECT_DIR$/internetcode/servercoedceshi.py" afterPath="$PROJECT_DIR$/internetcode/TCP/servercoedceshi.py" />
+      <change beforePath="$PROJECT_DIR$/internetcode/sina.html" afterPath="$PROJECT_DIR$/internetcode/TCP/sina.html" />
+      <change beforePath="$PROJECT_DIR$/internetcode/流程描述.py" afterPath="$PROJECT_DIR$/internetcode/TCP/流程描述.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,14 +21,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="servercode.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/internetcode/servercode.py">
+      <file leaf-file-name="servercode.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+            <state relative-caret-position="532">
+              <caret line="34" column="133" lean-forward="true" selection-start-line="34" selection-start-column="133" selection-end-line="34" selection-end-column="133" />
               <folding>
                 <element signature="e#385#398#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servercoedceshi.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercoedceshi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UDPserver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internetcode/UDP/UDPserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="e#176#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UDPclient.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internetcode/UDP/UDPclient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/图像处理标准库pillow.py" />
-        <option value="$PROJECT_DIR$/图像处理标准库.py" />
-        <option value="$PROJECT_DIR$/图像处理标准库2.py" />
         <option value="$PROJECT_DIR$/系统监控ps.py" />
         <option value="$PROJECT_DIR$/图形界面.py" />
         <option value="$PROJECT_DIR$/集中式与分布式的区别.py" />
@@ -101,10 +125,16 @@
         <option value="$PROJECT_DIR$/internetcode/servercode.py" />
         <option value="$PROJECT_DIR$/internetcode/TCP/serverceshi2.py" />
         <option value="$PROJECT_DIR$/internetcode/流程描述.py" />
+        <option value="$PROJECT_DIR$/cehsi8.py" />
+        <option value="$PROJECT_DIR$/internetcode/UDP/UDPinternetcode.py" />
+        <option value="$PROJECT_DIR$/internetcode/TCP/servercode.py" />
+        <option value="$PROJECT_DIR$/internetcode/TCP/servercoedceshi.py" />
+        <option value="$PROJECT_DIR$/internetcode/UDP/UDPserver.py" />
+        <option value="$PROJECT_DIR$/internetcode/UDP/UDPclient.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="1292" />
     <option name="height" value="729" />
@@ -125,6 +155,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,12 +164,15 @@
               <item name="flask" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
+              <item name="Daydaystudy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,11 +180,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\flask\internetcode\TCP" />
       <recent name="F:\flask\Daydaystudy" />
       <recent name="F:\flask\img" />
       <recent name="F:\flask\git" />
       <recent name="F:\flask\测试文件" />
-      <recent name="F:\flask\github\远程仓库" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -164,7 +199,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.servercode">
+  <component name="RunManager" selected="Python.cehsi8">
+    <configuration name="图形界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/图形界面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="TCP编程" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,7 +254,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="图形界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cehsi8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,25 +266,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="flask" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/图形界面.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="图形界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="flask" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/图形界面.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cehsi8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,11 +367,11 @@
       <item index="1" class="java.lang.String" itemvalue="Python.内建模块itertools" />
       <item index="2" class="java.lang.String" itemvalue="Python.ceshi111" />
       <item index="3" class="java.lang.String" itemvalue="Python.TCP编程" />
-      <item index="4" class="java.lang.String" itemvalue="Python.servercode" />
+      <item index="4" class="java.lang.String" itemvalue="Python.cehsi8" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.servercode" />
+        <item index="0" class="java.lang.String" itemvalue="Python.cehsi8" />
         <item index="1" class="java.lang.String" itemvalue="Python.TCP编程" />
         <item index="2" class="java.lang.String" itemvalue="Python.ceshi111" />
         <item index="3" class="java.lang.String" itemvalue="Python.内建模块itertools" />
@@ -361,7 +396,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18988095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -369,7 +404,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30861506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35223556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -410,27 +445,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Daydaystudy/图像处理标准库2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="165" column="13" lean-forward="true" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daydaystudy/hashlib摘要算法防篡改.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1302">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daydaystudy/图像处理标准库.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daydaystudy/图形界面.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -471,13 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daydaystudy/thefirstku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -672,18 +679,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internetcode/sina.html">
+    <entry file="file://$PROJECT_DIR$/internetcode/TCP/sina.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2223">
           <caret line="22" column="310" lean-forward="false" selection-start-line="22" selection-start-column="310" selection-end-line="22" selection-end-column="310" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internetcode/internet编程.py">
+    <entry file="file://$PROJECT_DIR$/internetcode/TCP/internet编程.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="55" lean-forward="false" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -717,23 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internetcode/servercoedceshi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internetcode/流程描述.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,17 +732,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cehsi8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internetcode/TCP/流程描述.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daydaystudy/thefirstku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internetcode/servercode.py">
+    <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        <state relative-caret-position="532">
+          <caret line="34" column="133" lean-forward="true" selection-start-line="34" selection-start-column="133" selection-end-line="34" selection-end-column="133" />
           <folding>
             <element signature="e#385#398#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internetcode/UDP/UDPclient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internetcode/UDP/UDPserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#176#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internetcode/TCP/servercoedceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
